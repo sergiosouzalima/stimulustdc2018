@@ -15,7 +15,7 @@ This App was built with:
 - Rails 5.2
 - StimulusJS [StimulusJS](https://stimulusjs.org).
 
-[Installing Rails](http://railsapps.github.io/installing-rails.html).
+Doubts when installing Rails? [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
 ---
 
